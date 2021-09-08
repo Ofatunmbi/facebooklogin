@@ -1,0 +1,61 @@
+
+body{
+    background-color:#F0F2F5;
+}
+
+form{
+    background-color: white;
+}
+.logo{
+    padding-top: 112px;
+    padding-bottom: 16px;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    width: auto;
+    line-height: 28px;
+    color: #1c1e21;
+    padding-bottom: 20px;
+}
+.card{
+    width:25rem;
+    padding-top: 10px;
+    padding-bottom: 24px;
+    border-radius: 8px;
+
+}
+.form{
+    padding-top: 112px;
+}
+.link{
+    display: block;
+    padding-top: 16px;
+}
+a{
+    text-decoration: none;
+}
+
+.border{
+  border-bottom: 1px solid #dadde1;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+.body-sect{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 28px;
+    text-align: center;
+
+}
+.a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    color: inherit;
+}
